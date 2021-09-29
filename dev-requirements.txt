@@ -1,0 +1,5 @@
+watchdog
+blinker
+flake8
+ipdb
+ipython

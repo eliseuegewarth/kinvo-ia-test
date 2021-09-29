@@ -1,0 +1,4 @@
+Flask
+scrapy
+spacy
+python-decouple
